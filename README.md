@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @cordovacarlos22<br>- 👀 I’m interested in  becoming a Full-Stack DEV and Work at FANGA...<br>- 🌱 I’m currently learning HTML, CSS, JAVASCRIP & MERN Stack​ ...<br><br><br><br><br>
+- 👋 Hi, my name is Carlos Cordova Oriz<br>- 👀 I’m interested in  becoming a Full-Stack DEV and Work at FANGA...<br>- 🌱 I’m currently learning HTML, CSS, JAVASCRIP & MERN Stack​ ...<br><br><br><br><br>
 
 
 ## 🌐 Socials:
