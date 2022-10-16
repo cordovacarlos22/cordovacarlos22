@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, my name is Carlos Cordova Oriz<br>- 👀 I’m interested in  becoming a Full-Stack DEV and Work at FANGA...<br>- 🌱 I’m currently learning HTML, CSS, JAVASCRIP & MERN Stack​ ...<br><br><br><br><br>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83230c43-20a2-4c8e-80f9-d39bb2449949/deploy-status)](https://app.netlify.com/sites/todp-list-app-crud/deploys)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cordovacarlos22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Cordovacarlos10) 
