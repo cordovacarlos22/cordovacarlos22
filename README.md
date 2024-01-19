@@ -1,9 +1,10 @@
+![Header](./1688951938561.jpeg)
 <h1 align="center">Hi 👋, I'm Carlos Cordova</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cordovacarlos22&label=Profile%20views&color=0e75b6&style=flat" alt="cordovacarlos22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cordovacarlos22" alt="cordovacarlos22" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/corca_dev" target="blank"><img src="https://img.shields.io/twitter/follow/corca_dev?logo=twitter&style=for-the-badge" alt="corca_dev" /></a> </p>
 
@@ -18,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/corca_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="corca_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carloscordovadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carloscordovadev/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carloscordovadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/carloscordovadev/" height="30" width="40" /></a>
 <a href="https://instagram.com/corca_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corca_dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/carloscordovadeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="carloscordovadeveloper" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/300563475/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/300563475/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAYA-gNTTWOULBclz6RO-_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucaya-gnttwoulbclz6ro-_g" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/300563475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="300563475" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
