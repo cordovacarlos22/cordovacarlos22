@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/corca_dev" target="blank"><img src="https://img.shields.io/twitter/follow/corca_dev?logo=twitter&style=for-the-badge" alt="corca_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/carlosc_dev" target="blank"><img src="https://img.shields.io/twitter/follow/corca_dev?logo=twitter&style=for-the-badge" alt="corca_dev" /></a> </p>
 
 - 🌱 I’m currently learning **Full-stack Web Deloment at DEV.f**
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/carlosc_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="corca_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carloscordovadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/carloscordovadev/" height="30" width="40" /></a>
-<a href="https://instagram.com/corca_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corca_dev" height="30" width="40" /></a>
+<a href="https://instagram.com/carloscordova.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corca_dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCAYA-gNTTWOULBclz6RO-_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucaya-gnttwoulbclz6ro-_g" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/300563475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="300563475" height="30" width="40" /></a>
 </p>
