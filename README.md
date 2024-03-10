@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/carlosc_dev" target="blank"><img src="https://img.shields.io/twitter/follow/corca_dev?logo=twitter&style=for-the-badge" alt="corca_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack Web Deloment at DEV.f**
+- 👾 Currently training as Full Stack Web Developer
+
 
 - 👨‍💻 All of my projects are available at [https://www.carloscordova.dev](https://www.carloscordova.dev)
 
